@@ -24,6 +24,6 @@ function dec(a){
   return a
 }
 
-function makeInt(n)
+function makeInt(n,base)
   return 
 }
