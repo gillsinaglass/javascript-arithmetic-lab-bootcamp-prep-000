@@ -23,3 +23,7 @@ function dec(a){
   a--
   return a
 }
+
+function makeInt(n){
+  return parseInt('n',10)
+}
